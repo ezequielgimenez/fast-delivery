@@ -1,9 +1,6 @@
 export default function MainComp() {
   return (
-    <div
-      data-aos="fade-up"
-      className="xs:flex xs:flex-col xs:px-8 xs:py-12 xs:items-center xs:justify-center lg:flex-row gap-x-4 lg:px-32 lg:py-24"
-    >
+    <div className="xs:flex xs:flex-col xs:px-8 xs:py-12 xs:items-center xs:justify-center lg:flex-row gap-x-4 lg:px-32 lg:py-24">
       <div className="">
         <h1 className="font-raleway xs:text-[35px] xs:text-center lg:text-left sm:text-[40px] lg:text-[45px] text-[#261134]">
           A trusted provider of

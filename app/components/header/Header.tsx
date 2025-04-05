@@ -36,7 +36,7 @@ export default function HeaderComp() {
           } inset-0 h-screen flex-col items-center gap-y-8 fixed top-0 left-0 opacity-95 bg-[#f2b6a0] z-50`}
         >
           <div className="flex w-full justify-end pr-4 pt-4">
-            <button onClick={openNav}>🗙</button>
+            <button onClick={openNav}>✖</button>
           </div>
           <a
             className="font-raleway font-bold text-[22px] text-[#464558]"
